@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Results</title>
+</head>
+<body>
+    <h2>Women's winner:</h2>
+    <p>{{ winner }}</p>
+
+    <h2>Overall national ranking:</h2>
+    <ul>
+        {% for line in ranking %}
+            <li>{{ line }}</li>
+        {% endfor %}
+    </ul>
+
+    <a href="/"><button>Back</button></a>
+</body>
+</html>
