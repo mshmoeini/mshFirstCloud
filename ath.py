@@ -12,7 +12,7 @@
 #                     special characters such as [ ] { } < > from this text.
 
 STUDENT_NAME = "Seyedmohammad Moeinishokouh"
-
+mycloude = "gitttttttt"
 print("Exam of " + STUDENT_NAME)
 
 # Write here your solution:
