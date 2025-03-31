@@ -10,6 +10,7 @@
 #
 # if your keyboard is damaged, you can use the mouse to copy/paste 
 #                     special characters such as [ ] { } < > from this text.
+app.run(host="0.0.0.0", port=5000)
 
 STUDENT_NAME = "Seyedmohammad Moeinishokouh"
 mycloude = "gitttttttt"
